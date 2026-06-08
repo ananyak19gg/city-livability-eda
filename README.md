@@ -15,7 +15,7 @@ Exploratory data analysis across 21 Indian cities combining safety, sanitation, 
 
 ## Key Findings
 - Varanasi and Nashik rank safer than most metros by crime count
-- Surat is India's cleanliness leader but has a brutal rent-to-income ratio
+- Indore is India's cleanliness leader but has a brutal rent-to-income ratio
 - No strong relationship found between city cost and crime rate
 - Mumbai: high cost, high crime, negative disposable income
 
