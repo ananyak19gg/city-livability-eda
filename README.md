@@ -1,4 +1,4 @@
-# Safe, Clean, or Cheap? — Indian City Liveability EDA
+# Safe, Clean, or Cheap? - Indian City Liveability EDA
 
 Exploratory data analysis across 21 Indian cities combining safety, sanitation, and economic data into a single composite liveability score.
 
