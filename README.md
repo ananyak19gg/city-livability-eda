@@ -28,4 +28,4 @@ Exploratory data analysis across 21 Indian cities combining safety, sanitation, 
 Python · pandas · numpy · matplotlib · seaborn
 
 ---
-*First end-to-end data project — built on real, messy, multi-source data.*
+*First end-to-end data project - built on real, messy, multi-source data.*
