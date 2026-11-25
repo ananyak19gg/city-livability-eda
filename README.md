@@ -3,9 +3,9 @@
 Exploratory data analysis across 21 Indian cities combining safety, sanitation, and economic data into a single composite liveability score.
 
 ## Datasets
-- **Swachh Survekshan** — cleanliness scores (2016–2023)
-- **NCRB** — city-level crime incidents
-- **Numbeo** — cost of living, rent, salary
+- **Swachh Survekshan** - cleanliness scores (2016–2023)
+- **NCRB** - city-level crime incidents
+- **Numbeo** - cost of living, rent, salary
 
 ## What I Did
 - Cleaned and merged 3 independent datasets
@@ -20,9 +20,9 @@ Exploratory data analysis across 21 Indian cities combining safety, sanitation, 
 - Mumbai: high cost, high crime, negative disposable income
 
 ## Limitations
-- 21 cities only — limited by dataset overlap
+- 21 cities only - limited by dataset overlap
 - Crime not normalized by population
-- Equal weights across dimensions — subjective
+- Equal weights across dimensions - subjective
 
 ## Stack
 Python · pandas · numpy · matplotlib · seaborn
